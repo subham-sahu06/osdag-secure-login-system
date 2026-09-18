@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.py[cod]
+*.db
+node_modules/
+.seed-complete
+.mock-appwrite.json
+custom-backend/uploaded_files/*
