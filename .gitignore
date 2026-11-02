@@ -6,3 +6,5 @@ node_modules/
 .seed-complete
 .mock-appwrite.json
 custom-backend/uploaded_files/*
+appwrite-backend/.env.local
+uploaded_files/
